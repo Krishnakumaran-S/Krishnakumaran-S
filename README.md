@@ -28,41 +28,56 @@
 
 ### 🛠️ Tech Stack
 
-**Automation & Frameworks**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cucumber%20BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/-TOSCA-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Page%20Object%20Model-2E9EF7?style=for-the-badge" />
+**Automation & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=selenium" height="45" alt="Selenium" title="Selenium" />&nbsp;
+<img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber" title="Cucumber BDD" />&nbsp;
+<img src="https://img.shields.io/badge/TOSCA-000000?style=flat-square&logoColor=white" height="28" alt="TOSCA" />&nbsp;
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python" height="45" alt="Java, Python" />&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/4479A1" height="40" alt="SQL" title="SQL" />
 
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</td>
+<td valign="top" width="50%">
 
-**API & Integration Testing**
-
-<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+**API & Integration**
+<br/>
+<img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />&nbsp;
+<img src="https://cdn.simpleicons.org/json/000000" height="40" alt="JSON" title="JSON" />&nbsp;
+<img src="https://img.shields.io/badge/REST%20API-2E9EF7?style=flat-square" height="28" alt="REST API" />
 
 **CI/CD & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=jenkins,azure,git" height="45" alt="Jenkins, Azure DevOps, Git" />
 
-<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 **Performance & Quality**
+<br/>
+<img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="40" alt="JMeter" title="Apache JMeter" />&nbsp;
+<img src="https://skillicons.dev/icons?i=sonarqube" height="45" alt="SonarQube" />
 
-<img src="https://img.shields.io/badge/-Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-<img src="https://img.shields.io/badge/-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</td>
+<td valign="top" width="50%">
 
 **Tools & Practices**
+<br/>
+<img src="https://skillicons.dev/icons?i=jira" height="45" alt="JIRA" />&nbsp;
+<img src="https://img.shields.io/badge/Agile%2FScrum-1E90FF?style=flat-square" height="28" alt="Agile/Scrum" />&nbsp;
+<img src="https://img.shields.io/badge/ALM-333333?style=flat-square" height="28" alt="ALM" />
 
-<img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/-Agile%2FScrum-1E90FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-ALM-333333?style=for-the-badge" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -126,10 +141,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krishnakumaran-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnakumaran-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krishnakumaran-S&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com?user=Krishnakumaran-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakumaran-S&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnakumaran-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnakumaran-S&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="90%" />
 
 </div>
 
